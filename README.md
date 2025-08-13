@@ -1,3 +1,5 @@
+# As you can tell, this project is 2 years old, too many things changed in "python openai", I did update my code but since I didn't have API key to test, there is no way to upload not tested code. :)
+
 # chatGPT3_Linux_Terminal
 this is a chatGPT3 terminal based client, you can have your chatGPT in your terminal.
 this client uses openai_key so there is no timeout, it's there waiting to be called.
